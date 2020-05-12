@@ -1,5 +1,6 @@
 (function(){
     var MAAT_URL = "https://maatai.github.io/widget/api/api.dart.js";
+    //var MAAT_URL = "api.dart.js";
     var head = document.head || document.getElementsByTagName("head")[0];
     var script = document.createElement("script");
     script.src = MAAT_URL;
